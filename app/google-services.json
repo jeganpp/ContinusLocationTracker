@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "442370833905",
+    "firebase_url": "https://locationtracker-71a5a.firebaseio.com",
+    "project_id": "locationtracker-71a5a",
+    "storage_bucket": "locationtracker-71a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442370833905:android:23b6a91382bfa7e4",
+        "android_client_info": {
+          "package_name": "com.example.jegan.continuslocationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442370833905-v3ju18p8jc9s7njpee4tbnaln0jnqlak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jegan.continuslocationtracker",
+            "certificate_hash": "b5aa58fb736583e242dfef5bb1c66f1ed8c5722d"
+          }
+        },
+        {
+          "client_id": "442370833905-4d5vk4p71ug398rckcujfl5t4nqap3dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3o9jKasWgv29CXpjB0duJaL6M7pliD6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442370833905-4d5vk4p71ug398rckcujfl5t4nqap3dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
